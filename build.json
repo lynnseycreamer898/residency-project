@@ -1,0 +1,8 @@
+{
+	"httpPaths": {
+		"/": "./lib"
+	},
+	"anvil.output": {
+		"exclude": [ "sass" ]
+	}
+}
